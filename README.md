@@ -20,7 +20,9 @@ Assessment Documents:
     > See 'search_directory_project' folder
 5) Project presentation (25%)
   > Presented at Annenberg School for Communication, Room 225, April 28th, 2023
+  
   > Final Presentation Slides (Sam Pasco Indepedent Study Presentation_ NearBuy.pdf)
+  
   > Final Presentation Speaking Notes (NearBuy Presentation - Speaking Notes.pdf)
 
 
