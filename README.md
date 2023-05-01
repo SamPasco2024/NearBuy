@@ -14,3 +14,5 @@ File (Description):
   * Speaking Notes used for Presentation
 * Independent Study_ NearBuy (Live Log).pdf
   * On-going Semester Journal and Meeting Notes
+* Pasco, Sam Creating an Unbiased Search Directory O'Donnell.pdf
+  * Independent Study Syllabus
