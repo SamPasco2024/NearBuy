@@ -6,7 +6,7 @@ Title: Creating an Unbiased Search Directory for Localized Transactional Searche
 In One Sentence: This independent study addresses search engine bias and aims to develop a directory-based meta search tool for unbiased transactional searches. By leveraging prior knowledge in surveillance capitalism, computational text analysis, and communication behavior, the goal is to provide neutral and relevant search results for users, while also proposing a bigger, new system.
 
 
-> Link to Presentation Video (Raw, skip to 18:01 for presentation start):
+> Link to Presentation Video (Complete Video, skip to 18:01 for presentation start):
 [https://www.youtube.com/watch?v=T1XZ6UmyP0I](https://www.youtube.com/watch?v=T1XZ6UmyP0I)
 
 
