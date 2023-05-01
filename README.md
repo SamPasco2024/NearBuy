@@ -27,6 +27,6 @@ Other Files:
 * Independent Study Syllabus (Pasco, Sam Creating an Unbiased Search Directory O'Donnell.pdf)
 * On-going Semester Journal and Meeting Notes (Independent Study_ NearBuy (Live Log).pdf)
 * Sample research conversations with BingGPT about localized search, saved as PDFs ('BingGPT Chats' Folder)
-
+* Logo used for NearBuy beta (homepage_logo (1).png)
 
 
