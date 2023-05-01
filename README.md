@@ -11,6 +11,7 @@ In One Sentence: This independent study looks at modern search engine bias and a
 Assessment Documents:
 1) Annotated Bibliography (10%) 
     * Create an annotated bibliography of 8-10 key readings on transactional search,  search neutrality and bias. 
+    > See 'Annotated Bibliography.pdf'
     
 2) SERP Assignment (10%) 
     * Collect and analyze the search engine results pages form a set of products from a range of search engines. Write a report summarizing findings. 
@@ -38,5 +39,3 @@ Other Files:
 * On-going Semester Journal and Meeting Notes (Independent Study_ NearBuy (Live Log).pdf)
 * Sample research conversations with BingGPT about localized search, saved as PDFs ('BingGPT Chats' Folder)
 * Logo used for NearBuy beta (homepage_logo (1).png)
-
-
