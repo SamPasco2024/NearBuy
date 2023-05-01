@@ -11,6 +11,7 @@ In One Sentence: This independent study addresses search engine bias and aims to
 
 > Link to Presentation Video (Raw, skip to 18:01 for presentation start):
 [https://www.youtube.com/watch?v=T1XZ6UmyP0I](https://www.youtube.com/watch?v=T1XZ6UmyP0I)
+
 > Presented at Annenberg School for Communication, Room 225, April 28th, 2023
 
 
