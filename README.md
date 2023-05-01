@@ -39,3 +39,4 @@ Other Files:
 * On-going Semester Journal and Meeting Notes (Independent Study_ NearBuy (Live Log).pdf)
 * Sample research conversations with BingGPT about localized search, saved as PDFs ('BingGPT Chats' Folder)
 * Logo used for NearBuy beta (homepage_logo (1).png)
+* Screenshot of Independent Study Approved on Path@Penn (Screenshot 2023-05-01 at 7.32.24 PM.png)
