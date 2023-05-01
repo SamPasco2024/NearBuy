@@ -7,5 +7,5 @@ Link to Presentation Video (Raw, skip to 18:01 for presentation start):
 
 
 File:
-* Sam Pasco Indepedent Study Presentation: NearBuy
+* 'Sam Pasco Indepedent Study Presentation: NearBuy'
   * Final Presentation Slides
