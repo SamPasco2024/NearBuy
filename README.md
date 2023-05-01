@@ -3,19 +3,8 @@ Sam Pasco UPenn Annenberg School for Communication Independent Study - Spring 20
 
 Presented at Annenberg School for Communication, Room 225, April 28th, 2023
 
-Link to Presentation Video (Raw, skip to 18:01 for presentation start):
+> Link to Presentation Video (Raw, skip to 18:01 for presentation start):
 [https://www.youtube.com/watch?v=T1XZ6UmyP0I](https://www.youtube.com/watch?v=T1XZ6UmyP0I)
-
-
-File (Description):
-* Sam Pasco Indepedent Study Presentation_ NearBuy.pdf
-  * Final Presentation Slides
-* NearBuy Presentation - Speaking Notes.pdf
-  * Speaking Notes used for Presentation
-* Independent Study_ NearBuy (Live Log).pdf
-  * On-going Semester Journal and Meeting Notes
-* Pasco, Sam Creating an Unbiased Search Directory O'Donnell.pdf
-  * Independent Study Syllabus
 
 
 Assessment Documents:
@@ -29,4 +18,14 @@ Assessment Documents:
     * Develop and test Python code to implement a meta-search and unbiased ranking  algorithm for transactional searches for a small number of known locally  available products. 
     * Build a proof-of-concept web search application to demonstrate this algorithm.
 5) Project presentation (25%)
-- Testing
+  a) Final Presentation Slides (Sam Pasco Indepedent Study Presentation_ NearBuy.pdf)
+  b) Final Presentation Speaking Notes (NearBuy Presentation - Speaking Notes.pdf)
+
+
+Other Files:
+* Independent Study Syllabus (Pasco, Sam Creating an Unbiased Search Directory O'Donnell.pdf)
+* On-going Semester Journal and Meeting Notes (Independent Study_ NearBuy (Live Log).pdf)
+
+
+
+
