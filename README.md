@@ -2,6 +2,7 @@
 Sam Pasco UPenn Annenberg School for Communication Independent Study - Spring 2023 
 
 Title: Creating an Unbiased Search Directory for Localized Transactional Searches
+
 In One Sentence: This independent study looks at modern search engine bias and aims to develop a directory-based meta search tool for unbiased transactional searches. 
 
 > Link to Presentation Video (Complete Video, skip to 18:01 for presentation start):
