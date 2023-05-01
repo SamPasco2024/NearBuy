@@ -14,6 +14,7 @@ Assessment Documents:
     
 2) SERP Assignment (10%) 
     * Collect and analyze the search engine results pages form a set of products from a range of search engines. Write a report summarizing findings. 
+    > See 'SERP_assignment' folder
     
 3) Web Scraping Assignment (10%) 
     * Utilize web-scraping tools and techniques to build a search results dataset based  on a selection of 5-10 products with known local availability across a selection of  search engines. 
