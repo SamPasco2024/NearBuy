@@ -29,3 +29,4 @@ Assessment Documents:
     * Develop and test Python code to implement a meta-search and unbiased ranking  algorithm for transactional searches for a small number of known locally  available products. 
     * Build a proof-of-concept web search application to demonstrate this algorithm.
 5) Project presentation (25%)
+- Testing
