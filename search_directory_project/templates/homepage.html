@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NearBuy</title>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap" rel="stylesheet">
+	<style>
+		body {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			font-family: 'Montserrat', sans-serif;
+		}
+
+		header {
+			display: flex;
+			align-items: center;
+			width: 100%;
+			justify-content: center;
+		}
+
+		.title-container {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+		}
+
+		h1, h2 {
+			font-weight: 800;
+		}
+
+		.search-container {
+			margin-top: 20px;
+			display: flex;
+			justify-content: center;
+		}
+
+		form {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.input-wrapper {
+			display: flex;
+			align-items: center;
+			margin: 0 5px;
+		}
+
+		input::placeholder {
+			color: gray;
+			font-style: italic;
+		}
+
+		.yellow-button {
+			background-color: #fde456;
+			border: none;
+			padding: 10px 0;
+			cursor: pointer;
+			margin-top: 10px;
+			border-radius: 25px;
+			font-size: 18px;
+			font-family: 'Montserrat', sans-serif;
+			width: 100%;
+		}
+
+		img.logo {
+			height: 8em;
+			margin-right: 10px;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<div class="title-container">
+        <img class="logo" src="../static/homepage_logo.png" alt="Logo">			<div>
+				<h1>NearBuy</h1>
+				<h2>it's closer than you think</h2>
+			</div>
+		</div>
+	</header>
+
+	<div class="search-container">
+		<form action="/" method="post">
+			<div style="display: flex;">
+				<div class="input-wrapper">
+					<label for="brand">Brand:</label>
+					<input type="text" id="brand" name="brand" placeholder="Ulla Johnson">
+				</div>
+
+				<div class="input-wrapper">
+					<label for="zip_code">Zipcode:</label>
+					<input type="text" id="zip_code" name="zip_code" placeholder="94123">
+				</div>
+			</div>
+			<br><br>
+			<input class="yellow-button" type="submit" value="Search!">
+		</form>
+	</div>
+
+</body>
+</html>

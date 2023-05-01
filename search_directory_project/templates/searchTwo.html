@@ -1,0 +1,31 @@
+<html>
+<head>
+	<title>NearBuy</title>
+</head>
+<body>
+    <form action="/search" method="post">
+		<label for="store">Enter store name:</label><br>
+		<input type="text" id="store" name="store"><br>
+		<input type="submit" value="Submit">
+	</form>
+    {% if results %}
+	<h1>Results</h1>
+    <table> 
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for result in results %}
+            <tr> 
+                <td> {{ result['title'] }} </td> 
+                <td> <a href="{{result['google_maps_link']}}" target="_new"> {{ result['address'] }} </a> </td> 
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
+</body>
+</html>

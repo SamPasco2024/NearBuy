@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title>NearBuy</title>
+</head>
+<body>
+    <form action="/meta" method="post">
+		<label for="rank">Enter rank max:</label><br>
+		<input type="text" id="rank" name="rank"><br>
+        
+        <label for="zipcode">Enter zipcode:</label><br>
+		<input type="text" id="zipcode" name="zipcode"><br>
+        
+		<input type="submit" value="Submit">
+	</form>
+    {% if results %}
+	<h1>Results</h1>
+    <table> 
+        <tbody>
+            {% for result in results %}
+            <tr> 
+                <td> {{ result['Title'] }} </td> 
+                <td> {{ result['Search Engine'] }} </td> 
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
+</body>
+</html>
