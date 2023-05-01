@@ -8,7 +8,7 @@ Link to Presentation Video (Raw, skip to 18:01 for presentation start):
 
 
 File (Description):
-* Sam Pasco Indepedent Study Presentation: NearBuy
+* Sam Pasco Indepedent Study Presentation_ NearBuy.pdf
   * Final Presentation Slides
 * NearBuy Presentation - Speaking Notes.pdf
   * Speaking Notes used for Presentation
