@@ -6,13 +6,8 @@ Title: Creating an Unbiased Search Directory for Localized Transactional Searche
 In One Sentence: This independent study addresses search engine bias and aims to develop a directory-based meta search tool for unbiased transactional searches. By leveraging prior knowledge in surveillance capitalism, computational text analysis, and communication behavior, the goal is to provide neutral and relevant search results for users, while also proposing a bigger, new system.
 
 
-
-
-
 > Link to Presentation Video (Raw, skip to 18:01 for presentation start):
 [https://www.youtube.com/watch?v=T1XZ6UmyP0I](https://www.youtube.com/watch?v=T1XZ6UmyP0I)
-
-> Presented at Annenberg School for Communication, Room 225, April 28th, 2023
 
 
 Assessment Documents:
@@ -26,8 +21,9 @@ Assessment Documents:
     * Develop and test Python code to implement a meta-search and unbiased ranking  algorithm for transactional searches for a small number of known locally  available products. 
     * Build a proof-of-concept web search application to demonstrate this algorithm.
 5) Project presentation (25%)
-  a) Final Presentation Slides (Sam Pasco Indepedent Study Presentation_ NearBuy.pdf)
-  b) Final Presentation Speaking Notes (NearBuy Presentation - Speaking Notes.pdf)
+  a) Presented at Annenberg School for Communication, Room 225, April 28th, 2023
+  b) Final Presentation Slides (Sam Pasco Indepedent Study Presentation_ NearBuy.pdf)
+  c) Final Presentation Speaking Notes (NearBuy Presentation - Speaking Notes.pdf)
 
 
 Other Files:
